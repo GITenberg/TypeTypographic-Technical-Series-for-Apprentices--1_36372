@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35419'
     url: http://www.gutenberg.org/2009/agents/35419
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36372#TypeTypographic-Technical-Series-for-Apprentices--1
 gutenberg_issued: '2011-06-10'
 gutenberg_type: Text
 identifiers:
