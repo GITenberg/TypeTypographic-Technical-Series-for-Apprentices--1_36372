@@ -24,6 +24,7 @@ series_note: 'Typographic Technical Series for Apprentices #1'
 subjects:
 - !lcc 'Z'
 - !lcsh 'Type and type-founding'
+- GITenberg
 title: "Type: A Primer of Information About the Mechanical Features of Printing Types\r\
   \nTheir Sizes, Font Schemes, &c. with a Brief Description of Their Manufacture"
 url: http://www.gutenberg.org/ebooks/36372
